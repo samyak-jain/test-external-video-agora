@@ -1,0 +1,3 @@
+include ':lib-component', ':lib-external-video'
+rootProject.name='Advanced-Video-Android'
+include ':testshare'
